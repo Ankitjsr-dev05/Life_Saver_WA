@@ -1,0 +1,8 @@
+{
+  "name": "Life Saver",
+  "description": "AI-powered digital chief-of-staff and productivity dashboard that helps you manage high-stakes situations, tasks, schedules, and active workflows with calm control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
